@@ -2,8 +2,4 @@
 <?php
 echo "Auf meiner Internetseite";
 
-
-
-//das wurde auf dem develop branch grade geändert
-
 ?>
